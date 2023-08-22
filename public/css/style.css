@@ -96,6 +96,14 @@ ul{
     align-items: center;
 
 }
+.burguer-menu-2{
+    font-size: 25px;
+    background-color: #1259c3;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+}
+
 .ft-list{
     text-align: center;
 .bg-color{
